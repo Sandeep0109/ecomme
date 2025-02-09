@@ -6,7 +6,7 @@ import ProductDetail from './components/ProductDetail'
 import SearchItem from './components/SearchItem'
 import Cart from './components/Cart'
 import { items } from './components/Data'
-
+// commit
 
 const App = () => {
   const [data, setData] = useState([...items])
